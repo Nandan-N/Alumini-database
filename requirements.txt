@@ -1,0 +1,7 @@
+# requirements.txt
+# minimum python version : 3.8.10
+
+mysql-connector-python==8.0.30
+streamlit==1.14.1
+pandas==1.4.3
+opencv-python==4.6.0.66
